@@ -41,14 +41,15 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To SPAZ TECH..!!</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 </h3>
+			<h3>This is a Sample website..!!</h3>
+			<h4>Contact @ +91 - 9985296677 / 9985396677 / 9854755557 </h4>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; SPAZ TECH 2022</p>
+		<p>&copy; SPAZ TECH 2023</p>
 	</footer>
 </div>
 
